@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gihubSearcEngine/static/css/main.ba4d0893.chunk.css",
+    "main.js": "/gihubSearcEngine/static/js/main.e0e65f5d.chunk.js",
+    "main.js.map": "/gihubSearcEngine/static/js/main.e0e65f5d.chunk.js.map",
+    "runtime-main.js": "/gihubSearcEngine/static/js/runtime-main.02196977.js",
+    "runtime-main.js.map": "/gihubSearcEngine/static/js/runtime-main.02196977.js.map",
+    "static/css/2.352a0142.chunk.css": "/gihubSearcEngine/static/css/2.352a0142.chunk.css",
+    "static/js/2.88fb575c.chunk.js": "/gihubSearcEngine/static/js/2.88fb575c.chunk.js",
+    "static/js/2.88fb575c.chunk.js.map": "/gihubSearcEngine/static/js/2.88fb575c.chunk.js.map",
+    "index.html": "/gihubSearcEngine/index.html",
+    "precache-manifest.2ed866822cdc1c2d5ed8686f5a7569e1.js": "/gihubSearcEngine/precache-manifest.2ed866822cdc1c2d5ed8686f5a7569e1.js",
+    "service-worker.js": "/gihubSearcEngine/service-worker.js",
+    "static/css/2.352a0142.chunk.css.map": "/gihubSearcEngine/static/css/2.352a0142.chunk.css.map",
+    "static/css/main.ba4d0893.chunk.css.map": "/gihubSearcEngine/static/css/main.ba4d0893.chunk.css.map",
+    "static/js/2.88fb575c.chunk.js.LICENSE.txt": "/gihubSearcEngine/static/js/2.88fb575c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gihubSearcEngine/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02196977.js",
+    "static/css/2.352a0142.chunk.css",
+    "static/js/2.88fb575c.chunk.js",
+    "static/css/main.ba4d0893.chunk.css",
+    "static/js/main.e0e65f5d.chunk.js"
+  ]
+}
