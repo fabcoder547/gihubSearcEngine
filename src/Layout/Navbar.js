@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="navbar navbar-expand-md navbar-light navbar-custom bg-info ">
+      <nav className="navbar navbar-expand-lg  navbar-custom  ">
         <a className="navbar-brand" href="/">
           gitAPI
         </a>
@@ -24,7 +24,7 @@ const Navbar = () => {
         ></button>
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <span className="navbar-text ">
+          <span className="navbar-text text-white ">
             Welcome {context.user?.email ? context.user?.email : ""}
           </span>
           <ul className="navbar-nav ml-auto ">
@@ -56,9 +56,10 @@ const Navbar = () => {
             )}
           </ul>
         </div>
-      </div>
+      </nav>
     </div>
   );
 };
 
 export default Navbar;
+
