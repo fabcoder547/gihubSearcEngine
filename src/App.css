@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.navbar-custom {
+  width: 100%;
+  background-color: #0a3d62;
+}
 .navbar-custom .navbar-brand {
   margin: 0;
   color: #fff;
@@ -22,34 +25,40 @@
   color: #000;
 }
 form {
-  width: 500px;
-  border: 1px solid red;
+  max-width: 500px;
+
+  border: 3px solid #0a3d62;
+  border-radius: 10px;
   margin: 0 auto;
-  background-color: #f7f9fcd7;
+
   margin-top: 40px;
   padding: 10px 10px;
 }
 .btn-primary {
+  background-color: #019031;
   padding: 8px 50px;
   margin: 15px auto;
   margin-left: 150px;
+}
+form {
+  background-color: #fff;
 }
 form label {
   color: #000;
   font-size: 20px;
 
   font-weight: 600;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 form .form-control {
-  border: 1px solid #d63031;
+  border: 3px solid #0a3d62;
+
   /* width: 400px; */
 }
 .row {
   margin: 0;
 }
 .repocol ul {
-  /* border: 1px solid red; */
   list-style: none;
 
   padding: 30px 0px;
@@ -90,4 +99,8 @@ form .form-control {
 .card-body .card-title h5 {
   color: #d63031;
   font-size: 30px;
+}
+#footer {
+  background-color: #0a3d62;
+  color: #fff;
 }
